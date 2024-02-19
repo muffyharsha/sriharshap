@@ -21,8 +21,8 @@
 
         <section id="downloads">
           {% if site.show_downloads %}
-            <a href="{{ /assets/css/resume.pdf }}" class="btn">Resume</a>
-          <a href="{{ https://github.com/muffyharsha}}" class="btn btn-github"><span class="icon"></span>View my GitHub</a>
+            <a href="{{ '/assets/resume.pdf?v=' | append: site.github.build_revision | relative_url }}" class="btn">Resume</a>
+          <a href="https://github.com/muffyharsha" class="btn btn-github"><span class="icon"></span>View my GitHub</a>
         </section>
       </div>
     </header>
