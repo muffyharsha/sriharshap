@@ -2,7 +2,29 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+Special thanks for the beautiful design and functionality provided by the Hacker theme, developed by the GitHub Pages team. Here is the link to GitHub pages Hacker theme [Theme](https://github.com/pages-themes/hacker)..
+
+
+# About me
+
+Hello, I’m Sri Harsha, a results-driven AI enthusiast pursuing [Master’s in Artificial Intelligence](https://www.khoury.northeastern.edu/programs/artificial-intelligence-ms/) from Khoury College of Computer Sciences, [Northeastern University](https://graduate.northeastern.edu/), Boston. I bring a wealth of experience in building robust data pipelines and solutions for major companies like Lowe’s and GE Healthcare. Certified in AWS Data Analytics and Confluent Developer for Apache Kafka, I excel in leveraging cloud technologies to drive efficiency. My passion lies in tackling complex challenges, I'm open to collaboration, with no barriers to learning whatever's needed to solve the problem at hand.
+
+
+# My precious certification
+
+Achieved with great effort and unwavering dedication. While these certifications are expired, they are still precious.
+
+
+[AWS Certified Data Analytics-Specialty](https://aws.amazon.com/certification/certified-data-analytics-specialty/)
+
+![AWS Certified Data Analytics-Specialty](./assets/images/aws_cert.png)
+
+[Confluent Certified Developer for Apache Kafka](https://www.confluent.io/certification/#get-certified)
+
+![Confluent Certified Developer for Apache Kafka](./assets/images/conf_cert.png)
+
+
+
 
 [Link to another page](./another-page.html).
 
