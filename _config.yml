@@ -1,5 +1,6 @@
-title: Sri Harsha
-description: I give intangilble solutions for the most troubling problems of the world.
+title: Minimal theme
+logo: /assets/img/logo.png
+description: Minimal is a theme for GitHub Pages.
 show_downloads: true
 google_analytics:
-theme: jekyll-theme-hacker
+theme: jekyll-theme-minimal
