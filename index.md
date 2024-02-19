@@ -12,7 +12,7 @@ Hello, I’m Sri Harsha, a results-driven AI enthusiast pursuing [Master’s in 
 
 # My precious certification
 
-Achieved with great effort and unwavering dedication.
+Achieved with great effort and unwavering dedication. While these certifications are expired, they are still precious.
 
 
 [AWS Certified Data Analytics-Specialty](https://aws.amazon.com/certification/certified-data-analytics-specialty/)
