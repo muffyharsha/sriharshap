@@ -14,7 +14,7 @@
 
     <header>
       <div class="container">
-        <img src="{{ '/assets/images/profile_image.jpg' | append: site.github.build_revision | relative_url }}" alt="Profile Picture" class="profile-picture">
+        <img src="{{ '/assets/images/profile_image.jpg?v=' | append: site.github.build_revision | relative_url }}" alt="Profile Picture" class="profile-picture">
         <a id="a-title" href="{{ '/' | relative_url }}">
           <h1>{{ site.title | default: site.github.repository_name }}</h1>
         </a>
