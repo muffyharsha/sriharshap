@@ -15,8 +15,11 @@ Hello, I’m Sri Harsha, a results-driven AI enthusiast pursuing [Master’s in 
 Achieved with great effort and unwavering dedication.
 
 
+[AWS Certified Data Analytics-Specialty](https://aws.amazon.com/certification/certified-data-analytics-specialty/)
+![AWS Certified Data Analytics-Specialty](./assets/images/aws_cert.png)
 
-
+[Confluent Certified Developer for Apache Kafka](https://www.confluent.io/certification/#get-certified)
+![Confluent Certified Developer for Apache Kafka](./assets/images/conf_cert.png)
 
 
 
