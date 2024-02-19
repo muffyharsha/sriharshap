@@ -19,7 +19,7 @@ Achieved with great effort and unwavering dedication.
 ![AWS Certified Data Analytics-Specialty](./assets/images/aws_cert.png)
 
 [Confluent Certified Developer for Apache Kafka](https://www.confluent.io/certification/#get-certified)
-<img src="{{./assets/images/conf_cert.png | append: site.github.build_revision | relative_url }}" width="100" height="100">
+![Confluent Certified Developer for Apache Kafka](./assets/images/conf_cert.png)
 
 
 
